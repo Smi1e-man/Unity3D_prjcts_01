@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F7C6FDD2-CA47-F660-C494-FF2DBC65BEDC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MoverForPlayer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MoverForPlayer.cs" Line="30" Column="95" />
+      <File FileName="Assets/Scripts/MoverForEnemy.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/PushForWeapon.cs" Line="31" Column="148" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="7" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity_03" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MoverForPlayer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e9195da7-ec05-479e-bf5e-11d93483522d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{3315A15E-9909-83E9-ADCE-22F160B91F9F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MoverForPLayer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ColorForPlace.cs" Line="23" Column="6" />
+      <File FileName="Assets/Scripts/MoverForPLayer.cs" Line="53" Column="126" />
+      <File FileName="Assets/Scripts/SpwnerInFruits.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/MoverForPlayerClone.cs" Line="28" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity_05" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MoverForPLayer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="55fb249d-0b43-44ff-9165-8bf0035ff19b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

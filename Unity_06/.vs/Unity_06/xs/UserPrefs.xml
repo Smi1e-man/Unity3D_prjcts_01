@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F3B8E570-EFCE-7D2F-7DB9-9E93DA6D93EE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MoverForPlayer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MoverForCamera.cs" Line="21" Column="67" />
+      <File FileName="Assets/Scripts/MoverForPlayer.cs" Line="81" Column="37" />
+      <File FileName="../Unity_04/Assets/Scripts/RotatorPendulumForKnife.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity_06" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MoverForPlayer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5e806058-7217-4e66-a084-11d87e2bc284" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

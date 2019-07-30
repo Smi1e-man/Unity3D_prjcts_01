@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{87831A32-76DD-686D-DAD3-25F3A08067B8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MoverForPusher.cs" Line="9" Column="57" />
+      <File FileName="Assets/Scripts/SpawnerPushers.cs" Line="25" Column="14" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/MoverForCamera.cs" Line="16" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity_00" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GameManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b835939e-1787-4c1b-a670-46df4d057778" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

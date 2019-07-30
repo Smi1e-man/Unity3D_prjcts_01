@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9553D281-4913-9867-3951-051D64C7FD1A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MoverForPerson.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MoverForPerson.cs" Line="21" Column="100" />
+      <File FileName="Assets/Scripts/MoverForCamera.cs" Line="21" Column="67" />
+      <File FileName="Assets/Scripts/JumperForRampFirst.cs" Line="25" Column="9" />
+      <File FileName="Assets/Scripts/JumperForRampSecond.cs" Line="25" Column="9" />
+      <File FileName="Assets/Scripts/JumperForRampThird.cs" Line="25" Column="9" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="7" Column="42" />
+      <File FileName="Assets/Scripts/JumperForTrampline.cs" Line="28" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity_02" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="MoverForPerson.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dfa7f5f5-e157-46e5-8bec-0d621b5354c3" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
